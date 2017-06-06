@@ -1,1 +1,1 @@
-hi, my name is Anton
+Script for launch groups of application

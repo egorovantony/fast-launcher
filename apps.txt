@@ -1,0 +1,1 @@
+{"appGr": {"name": "1", "apps": [{"app": {"path": "myNewPath", "name": "1"}}, {"app": {"path": "myNewPath12", "name": "2"}}]}}
